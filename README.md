@@ -35,7 +35,7 @@ Uptime is 0 days 00:10:25.
 #Howto use
 Add to idf_component.yml
 ```
-  cmd_vfs_basic:
+  uqfus/cmd_vfs_basic:
     git: https://github.com/uqfus/cmd_vfs_basic.git
 ```
 To register all console commands add
